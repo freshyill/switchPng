@@ -1,0 +1,27 @@
+{
+  "name": "switchPng",
+  "version": "1.0.0",
+  "authors": [
+  "Chris Coleman <freshyilL@gmail.com>"
+  ],
+  "description": "Switch .svg images for .png with help from Modernizr",
+  "main": "jquery.switchPng.js",
+  "keywords": [
+  "jquery",
+  "svg",
+  "png",
+  "modernizr"
+  ],
+  "license": "MIT",
+  "ignore": [
+  "**/.*",
+  "node_modules",
+  "bower_components",
+  "test",
+  "tests"
+  ],
+  "dependencies": {
+  "jquery": "~2.1.3",
+  "modernizr": "~2.8.3"
+  }
+}
